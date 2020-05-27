@@ -25,7 +25,7 @@ float exp(float x, float n){
 
 int main(){
 
-    float x = 4, n = 20;
+    float x = 2, n = 10;
     cout << "\n"<< exp(x, n) <<endl;
     return 1;
 }
